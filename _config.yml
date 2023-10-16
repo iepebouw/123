@@ -8,3 +8,6 @@ aux_links:
   Template Repository: https://github.com/iepebouw/iepebouw
 
 favicon_ico: "assets/images/icons8-1-16.png"
+
+back_to_top: true
+back_to_top_text: "Back to top"
